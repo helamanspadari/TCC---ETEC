@@ -1,0 +1,46 @@
+body{
+	margin: 7%;
+	text-align: center;
+	/*background-image: url(../img/fundo1.jpg);*/
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+}
+div{
+	margin: 0;
+}
+#loginbox{
+	padding: 1%;
+	height: 100%;
+	width: 37%;
+	margin-left: 23.5%;
+/*	background-color: black;*/
+	border-radius: 20%;
+	background-image: linear-gradient(to bottom, black, #432);
+	opacity: 0.89;
+}
+#loginform{
+	border-radius: 20%;
+	opacity: 0.9;
+	margin: 5%;
+
+}
+#recoverform{
+	background-image: linear-gradient(to bottom, black, #432);
+	border-radius: 20%;
+}
+.controls{
+	opacity: 1.0;
+}
+.main_input_box{
+}
+.form-actions{
+	background-image: linear-gradient(to bottom, black, #432);
+}
+.bg_lg{
+	margin: 2%;
+	padding: 2%;
+	border-radius: 15%;
+	background-color: green;
+}
